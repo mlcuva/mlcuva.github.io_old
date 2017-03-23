@@ -1,4 +1,4 @@
-<p style="text-align:center;"><img src="https://github.com/mlcuva/mlcuva.github.io/blob/master/MLCUVA.Logo_1.png" width="150" align="middle"></p>
+<p style="text-align:center;"><img src="https://github.com/mlcuva/mlcuva.github.io/blob/master/MLCUVA.Logo_1.png?raw=true" width="150" align="middle"></p>
 
 ## Welcome to MLCUVA
 
