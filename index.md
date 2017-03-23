@@ -13,7 +13,7 @@ Some of the activities MLCUVA provides are:
 
 ### Meetings
 
-**Bold** Location, Date, and Times for meetings are annouced through the [Slack Group](mlcuva.slack.com) and email. **Bold**
+** Location, Date, and Times for meetings are annouced through the [Slack Group](mlcuva.slack.com) and email. **
 
 ### Contacts
 
