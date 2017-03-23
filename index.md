@@ -1,4 +1,4 @@
-
+![alt text](https://github.com/mlcuva/mlcuva.github.io/blob/master/MLCUVA.Logo_1.png "Machine Learning Club Logo")
 
 ## Welcome to MLCUVA
 
