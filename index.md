@@ -4,7 +4,7 @@ We are a student-run club committed to promoting the growing field of Machine Le
 
 ## Activities
 
-Some of the activities MLCUVA provides are:
+Some of the activities MLCUVA organizes are:
 
 - Learning Sessions
 - Speakers
