@@ -19,9 +19,9 @@ Location, date, and times for meetings are announced through the [Slack Group](m
 
 Have any questions? Post them in the Slack Group or send an email to an address below:
 
-Christopher Geier (cpg3rb@virginia.edu)
+Christopher Geier [cpg3rb@virginia.edu](mailto:cpg3rb@virginia.edu)
 
-Julien Dhouti (jd2wm@virginia.edu)
+Julien Dhouti [jd2wm@virginia.edu](mailto:jd2wm@virginia.edu)
 
 
 
