@@ -1,6 +1,6 @@
 ## Welcome to MLCUVA
 
-We are a student-run club committed to promoting the growing field of Machine Learning at the University of Virginia. 
+We are a student-run club committed to promoting the growing field of Machine Learning at the University of Virginia.
 
 ## Activities
 
@@ -13,7 +13,7 @@ Some of the activities MLCUVA provides are:
 
 ## Meetings
 
-Location, date, and times for meetings are annouced through the [Slack Group](mlcuva.slack.com) and email.
+Location, date, and times for meetings are announced through the [Slack Group](mlcuva.slack.com) and email.
 
 ## Contacts
 
