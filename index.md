@@ -1,5 +1,3 @@
-<p style="text-align:center;"><img src="https://github.com/mlcuva/mlcuva.github.io/blob/master/MLCUVA.Logo_1.png?raw=true" width="150" align="middle"></p>
-
 ## Welcome to MLCUVA
 
 We are a student-run club committed to promoting the growing field of Machine Learning at the University of Virginia. 
