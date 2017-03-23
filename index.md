@@ -17,9 +17,10 @@ Some of the activities MLCUVA provides are:
 
 ### Contacts
 
-Have any questions? Post them in the Slack Group or send an email to the addresses below:
+Have any questions? Post them in the Slack Group or send an email to an address below:
 
 Christopher Geier (cpg3rb@virginia.edu)
+
 Julien Dhouti (jd2wm@virginia.edu)
 
 ### UVa Legal Statement
