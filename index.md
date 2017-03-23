@@ -1,4 +1,3 @@
-# Welcome to MLCUVA
 
 We are a student-run club committed to promoting the growing field of Machine Learning at the University of Virginia. 
 
