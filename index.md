@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+## Welcome to MLCUVA
 
-You can use the [editor on GitHub](https://github.com/mlcuva/mlcuva.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+We are a student-run club committed to promoting the growing field of Machine Learning at the University of Virginia. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Activities
 
-### Markdown
+Some of the activities MLCUVA provides are:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Learning Sessions
+- Speakers
+- Group projects
+- Conferences
 
-```markdown
-Syntax highlighted code block
+### Meetings
 
-# Header 1
-## Header 2
-### Header 3
+**Bold** Location, Date, and Times for meetings are annouced through the [Slack Group](mlcuva.slack.com) and email. **Bold**
 
-- Bulleted
-- List
+### Contacts
 
-1. Numbered
-2. List
+Have any questions? Post them in the Slack Group or send an email to the addresses below:
 
-**Bold** and _Italic_ and `Code` text
+Christopher Geier (cpg3rb@virginia.edu)
+Julien Dhouti (jd2wm@virginia.edu)
 
-[Link](url) and ![Image](src)
-```
+### UVa Legal Statement
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Although this organization has members who are University of Virginia students and may have University employees associated or engaged in its activities and affairs, the organization is not apart of or an agency of the University. It is a separate and independent organization which is responsible for and manages its own activities and affairs. The University does not direct, supervise or control the organization and is not responsible for the organization’s contracts, acts or omissions.
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mlcuva/mlcuva.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
