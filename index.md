@@ -1,4 +1,4 @@
-![alt text](https://github.com/mlcuva/mlcuva.github.io/blob/master/MLCUVA.Logo_1.png =250x250 "Machine Learning Club Logo")
+![alt text](https://github.com/mlcuva/mlcuva.github.io/blob/master/MLCUVA.Logo_1.png "Machine Learning Club Logo" =250x250)
 
 ## Welcome to MLCUVA
 
