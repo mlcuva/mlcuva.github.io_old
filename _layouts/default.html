@@ -5,23 +5,35 @@
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
     <title>{{ site.title | default: site.github.repository_name }} by {{ site.github.owner_name }}</title>
 
+    <!--This is the Google analytics stuff. -->
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function() {
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-47716115-2', 'auto');
+      ga('send', 'pageview');
+    </script>
+    <!-- end of google analytics stuff. -->
+
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <meta name="viewport" content="width=device-width">
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
-   
+
   </head>
   <body>
     <div class="wrapper">
       <header>
-        <img class="mlcuvalogo" src="https://github.com/mlcuva/mlcuva.github.io/blob/master/MLCUVA.Logo_1.png?raw=true" width="100"><p></p> 
+        <img class="mlcuvalogo" src="https://github.com/mlcuva/mlcuva.github.io/blob/master/MLCUVA.Logo_1.png?raw=true" width="100"><p></p>
         <h1>{{ site.title | default: site.github.repository_name }}</h1>
         <p>{{ site.description | default: site.github.project_tagline }}</p>
-        <script src="jquery.js"></script> 
-        <script> 
+        <script src="jquery.js"></script>
+        <script>
         $(function(){
-          $("#divId").load("172.25.165.211:5000"); 
+          $("#divId").load("172.25.165.211:5000");
         });
         </script>
         {% if site.github.is_project_page %}
@@ -43,7 +55,7 @@
          <a href="https://www.datacamp.com">
          <img class="datacamplogo" src="https://github.com/mlcuva/mlcuva.github.io/blob/master/Datacamp%20Logo.png?raw=true" width="120">
          </a>
-         <br><br> 
+         <br><br>
       </header>
       <section>
 
